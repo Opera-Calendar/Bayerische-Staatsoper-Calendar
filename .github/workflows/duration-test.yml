@@ -1,0 +1,63 @@
+name: Test Munich official performance durations
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install HTTP and HTML libraries
+        run: python -m pip install requests beautifulsoup4
+      - name: Check official individual production pages
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          import requests
+          from bs4 import BeautifulSoup
+
+          urls = {
+              'Siegfried (7 Nov 2026)': 'https://www.staatsoper.de/stuecke/siegfried/2026-11-07-1600-16130',
+              'Siegfried (English)': 'https://www.staatsoper.de/en/productions/siegfried/2026-11-07-1600-16130',
+              'Un ballo in maschera': 'https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2016-07-30-1900-7951',
+          }
+          duration_pattern = re.compile(
+              r'(?:Dauer\s*(?:ca\.|etwa)?|Duration\s*(?:est\.|approx\.)?)\s*'
+              r'(\d+)\s*(?:Stunden?|hours?)\s*(\d+)?\s*(?:Minuten?|minutes?)?',
+              re.IGNORECASE,
+          )
+          for name, url in urls.items():
+              print(f'\n=== {name} ===', flush=True)
+              print('URL:', url, flush=True)
+              try:
+                  response = requests.get(url, timeout=20, headers={
+                      'User-Agent': 'OperaCalendar/1.0 (personal calendar)',
+                      'Accept': 'text/html',
+                  })
+                  print('HTTP:', response.status_code, 'bytes:', len(response.content), flush=True)
+                  if response.status_code != 200:
+                      print('RESULT: No direct access; do not infer duration.')
+                      continue
+                  text = BeautifulSoup(response.text, 'html.parser').get_text(' ', strip=True)
+                  match = duration_pattern.search(text)
+                  if match:
+                      hours = int(match.group(1))
+                      minutes = int(match.group(2) or 0)
+                      print('DURATION:', hours * 60 + minutes, 'minutes')
+                  else:
+                      pos = text.lower().find('dauer')
+                      if pos < 0:
+                          pos = text.lower().find('duration')
+                      print('RESULT: Duration not parsed. Excerpt:', text[max(pos, 0):max(pos, 0)+160])
+              except Exception as exc:
+                  print('REQUEST ERROR:', type(exc).__name__, str(exc))
+          print('\nTEST FINISHED. Existing calendar was not touched.')
+          PY
