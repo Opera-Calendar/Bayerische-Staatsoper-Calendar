@@ -1,4 +1,4 @@
-name: Update Munich opera calendar
+name: Update Munich opera calendars
 
 on:
   workflow_dispatch:
@@ -18,19 +18,16 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Generate opera calendar
+      - name: Generate opera performance calendar
         run: python operabook_calendar.py
-      - name: Commit calendar if changed
+      - name: Generate ticket sale calendar
+        run: python vorverkauf.py
+      - name: Commit both calendars if changed
         run: |
-          if [ -f bayerische-staatsoper.ics ]; then
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add bayerische-staatsoper.ics
-            if ! git diff --cached --quiet; then
-              git commit -m 'Update Munich opera calendar'
-              git push
-            fi
-          else
-            echo 'No calendar created; stopping without committing'
-            exit 1
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add bayerische-staatsoper.ics bayerische-staatsoper-vorverkauf.ics
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Munich opera calendars'
+            git push
           fi
