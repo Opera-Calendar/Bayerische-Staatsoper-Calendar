@@ -1,0 +1,1929 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Opera Calendar//Bayerische Staatsoper via Operabook//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bayerische Staatsoper – Opern
+X-WR-TIMEZONE:Europe/Berlin
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:bba46c7d72d43ded2e859f0b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20260919T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68422_cinderella-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68422_cinderella-bayerische-staats
+ oper
+END:VEVENT
+BEGIN:VEVENT
+UID:fe37c2e99537ec9748d7eb48@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20260925T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68423_semele-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68423_semele-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:08a64b5ecefe971f90ff0051@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20260928T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68423_semele-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68423_semele-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7a4785469716c711ceba3548@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261002T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68423_semele-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68423_semele-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:afa377d8be546bfc44f510c2@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261003T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68424_of-one-blood-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68424_of-one-blood-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:f4c95ebbad52c670929405cf@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261004T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68423_semele-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68423_semele-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:640f17944f07a05633f29ea7@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261007T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68423_semele-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68423_semele-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a73e122ce789f3b069c6eced@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261008T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68424_of-one-blood-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68424_of-one-blood-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d8f6f2598595ace8708e1a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261011T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68424_of-one-blood-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68424_of-one-blood-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a93550fda2456276956ba2c8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261012T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68426_ariadne-on-naxos-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68426_ariadne-on-naxos-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:9d26772a3b8c096e870a8244@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261016T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68426_ariadne-on-naxos-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68426_ariadne-on-naxos-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:c54bb55100b0adff6df061c5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261018T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68428_lucrezia-borgia-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68428_lucrezia-borgia-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a33dfce1e94a210171f3314f@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261019T173000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68426_ariadne-on-naxos-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68426_ariadne-on-naxos-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2e10b1d79d80700d25266a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261021T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68428_lucrezia-borgia-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68428_lucrezia-borgia-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:06516b1eabc034fceac66b21@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261023T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68426_ariadne-on-naxos-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68426_ariadne-on-naxos-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:38178ebd0521db953c9c0e03@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261024T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68428_lucrezia-borgia-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68428_lucrezia-borgia-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:23c58fea8923e73d2a22c84d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261027T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68428_lucrezia-borgia-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68428_lucrezia-borgia-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:b28efe9049d6a9043cf32434@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261029T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:82dec1eb16bd261121838ba0@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261031T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68429_a-masked-ball-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68429_a-masked-ball-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:387d4bf882c373035bfbd393@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261101T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:801b15e6ce4d41ac47f7c3c2@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261103T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68429_a-masked-ball-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68429_a-masked-ball-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:cf12f79a18da014f878deb83@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261104T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3c2c37bc4630560b2be182@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261106T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68429_a-masked-ball-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68429_a-masked-ball-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:91c76350378de1b2abd453d8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261107T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:55e1bd9682044a8674cd9863@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261109T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68429_a-masked-ball-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68429_a-masked-ball-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:982c00a190a8fd75e0ab94d4@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261110T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:531b90264777f4ceeca823c3@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261112T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68429_a-masked-ball-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68429_a-masked-ball-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:73e9c081669b96050021cd67@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261113T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68430_la-boheme-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68430_la-boheme-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:75152c8e2130f9e9979b3e25@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261115T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68430_la-boheme-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68430_la-boheme-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:27461b40e13fb0af49a79bc6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261117T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68430_la-boheme-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68430_la-boheme-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6a1ef06216a99b680a745b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261120T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:f210ae69e6f802f0976cc531@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261121T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68430_la-boheme-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68430_la-boheme-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:17cabc11e7317169b8b759ab@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261122T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7f1451af3ab2784db43f6e19@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261124T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68430_la-boheme-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68430_la-boheme-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:069a9efe5b01c8ec2e1502e6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261127T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:376cb7a9d2acdaef832a0f78@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261129T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b35514f35c1ad69640a10d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261203T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:d4db3b7cd9a99d6788b370de@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261205T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68432_la-traviata-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68432_la-traviata-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:ef960c18c833c36dc6040e7f@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261206T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68431_the-magic-flute-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68431_the-magic-flute-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:05b89ed3b979ad7a8abfa183@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261208T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68432_la-traviata-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68432_la-traviata-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:a2dc831b209ae4a3db414164@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261211T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68432_la-traviata-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68432_la-traviata-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bdac067faecf435131efaa@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261213T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68432_la-traviata-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68432_la-traviata-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:10bf7702cdd163317e05c4a5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261216T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68432_la-traviata-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68432_la-traviata-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:5cad190915254c82c0b68c45@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261219T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68433_christmas-eve-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68433_christmas-eve-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:23ef50d2efddd0faed3268cc@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261220T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c3c1da0781784520d7f3f6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261222T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68433_christmas-eve-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68433_christmas-eve-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7629ff2bfd3271712b207a16@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261223T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac0b9203766b0df5e062f1b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261226T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68433_christmas-eve-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68433_christmas-eve-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:f11f3af48290406c6c651a3a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261227T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:0e931cf03d01dcd4dbcc90a5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261229T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68433_christmas-eve-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68433_christmas-eve-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:c5fda7e0245dbcd9667462be@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261230T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:3980c051cb211c77ceefdb96@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20261231T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68434_the-bat-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68434_the-bat-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:33164a40b18da83c07bbf7b5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270102T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:cf2facd5dc480d77542ec151@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270103T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68434_the-bat-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68434_the-bat-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:0e390c6e6c41e87b4f018bca@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270105T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68434_the-bat-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68434_the-bat-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:23623360972a58bf48faa7aa@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270107T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68434_the-bat-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68434_the-bat-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:6df214df716f320a2f2468bd@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270110T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68434_the-bat-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68434_the-bat-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:bc033e78dd7aa966a9b248f5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270115T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68435_don-giovanni-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68435_don-giovanni-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:e6f4081dee78e43b13158214@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270117T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68435_don-giovanni-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68435_don-giovanni-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:05141f3e25fb244330186062@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270120T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68435_don-giovanni-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68435_don-giovanni-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d4f244c5fb477b2f4d1a9a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270123T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68435_don-giovanni-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68435_don-giovanni-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:670bc397c1bc0213ba9aed16@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270127T183000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68436_kata-kabanova-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68436_kata-kabanova-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:970ff9b18cc440ef5fa9f498@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270130T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68436_kata-kabanova-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68436_kata-kabanova-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:3f035330d03857d3063472ae@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270131T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68438_the-barber-of-seville-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68438_the-barber-of-seville-bayeri
+ sche-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:6701f94e15380f5ce5f82d75@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270202T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68436_kata-kabanova-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68436_kata-kabanova-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:2c484210d216c087c6b255b0@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270203T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68438_the-barber-of-seville-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68438_the-barber-of-seville-bayeri
+ sche-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea9071450dbbbc662fbb880@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270204T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:1300e87e312b6f3b4b047e04@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270205T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68438_the-barber-of-seville-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68438_the-barber-of-seville-bayeri
+ sche-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:9168bd50d4a9ef7273f1dd21@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270207T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68438_the-barber-of-seville-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68438_the-barber-of-seville-bayeri
+ sche-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:efc425c2e5a0e37c5f80e0cf@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270208T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:9e8631333caca0bc20db1de4@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270210T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7ffdd332f1c09a1081f35b96@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270211T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68439_faust-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68439_faust-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:8a5e279c425b98f931d791ba@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270213T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2889cc0b2d34e73b2baa40@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270214T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68439_faust-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68439_faust-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:12edb94979cb35b59d4e872d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270215T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4aa2c41e80a5f058ffac38@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270219T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68439_faust-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68439_faust-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:052da7f4cc80100680bd9b5e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270222T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68440_the-flying-dutchman-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68440_the-flying-dutchman-bayerisc
+ he-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:276495bd77d5b3cc67fe1ecd@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270223T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68439_faust-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68439_faust-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:85b8cbf68b7277687af636b6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270224T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68440_the-flying-dutchman-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68440_the-flying-dutchman-bayerisc
+ he-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7464c5659d47e9914c9b7ff8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270227T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68440_the-flying-dutchman-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68440_the-flying-dutchman-bayerisc
+ he-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9add8085c40ccfa9d478d4@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270307T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68441_the-knight-of-the-rose-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68441_the-knight-of-the-rose-bayer
+ ische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:04dde566d747c645c1c49077@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270310T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68441_the-knight-of-the-rose-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68441_the-knight-of-the-rose-bayer
+ ische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:c50cb2b962105b103827ffc9@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270313T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68441_the-knight-of-the-rose-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68441_the-knight-of-the-rose-bayer
+ ische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:85f8046298ca9a2c9fd2f217@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270314T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68442_rigoletto-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68442_rigoletto-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe71e2c0ee5d10a63b5edab@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270315T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:513de2d7edbb565e73ad3859@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270318T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:8c03b1503c4920339d144eea@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270319T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68442_rigoletto-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68442_rigoletto-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:fc23e336a3721f78667211e7@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270321T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a4bd4dfb0c0eeb797a4800@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270323T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68442_rigoletto-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68442_rigoletto-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a0abe814e3919208a4749b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270324T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:32215e4b75daec7c34aa4f57@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270325T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68443_parsifal-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68443_parsifal-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:07a7b2d77e9a51d059221b89@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270327T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:c74efcb9db7969e8b9659ce6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270328T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68443_parsifal-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68443_parsifal-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:fd14055cfba822934a0dc4ac@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270331T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68414_mazepa-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68414_mazepa-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:11d902d03ba3ecf3e3291c9f@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270402T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68444_the-elixir-of-love-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68444_the-elixir-of-love-bayerisch
+ e-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5a07e0036051c52068d73c@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270403T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68443_parsifal-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68443_parsifal-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:a1348fe76798881c43b105cd@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270404T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68444_the-elixir-of-love-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68444_the-elixir-of-love-bayerisch
+ e-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c73ff43ea3bcf9b8a6425a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270406T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68444_the-elixir-of-love-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68444_the-elixir-of-love-bayerisch
+ e-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:40736f46e3144313e7bec072@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270421T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68445_carmen-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68445_carmen-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:54d069e2653e890ff4986a75@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270424T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68445_carmen-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68445_carmen-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec2dd33398f6293f03da1c1@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270425T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68446_tannhaeuser-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68446_tannhaeuser-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd98ec9895033f8eb077a9b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270428T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68445_carmen-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68445_carmen-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a4d9c62ef0271cb5fa876b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270429T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68446_tannhaeuser-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68446_tannhaeuser-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0c559075c1dccce3583304@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270430T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68418_liberty-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68418_liberty-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c238f1d6161e9a3b7493ad@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270502T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68446_tannhaeuser-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68446_tannhaeuser-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:a6a86cbbcbf7447f81bfc4c3@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270502T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68419_die-kreide-im-mund-des-wolfs-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68419_die-kreide-im-mund-des-wolfs
+ -bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:2c429ff2e0accd0f69465cf0@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270503T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68418_liberty-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68418_liberty-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2e4fc787c674d99bf7b170@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270505T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68418_liberty-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68418_liberty-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:49754cc8d3d4a2205af1a819@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270507T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68418_liberty-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68418_liberty-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:2af92de0935a2a2ab0d70523@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270508T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68418_liberty-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68418_liberty-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7d92344705408b0c62698e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270508T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68419_die-kreide-im-mund-des-wolfs-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68419_die-kreide-im-mund-des-wolfs
+ -bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:50958d8793db023879e499cb@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270509T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68446_tannhaeuser-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68446_tannhaeuser-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:00411917898cd9c66789f26e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270509T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68419_die-kreide-im-mund-des-wolfs-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68419_die-kreide-im-mund-des-wolfs
+ -bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7d048bab7be7ae81dead75b6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270515T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:3de8175aa4951195c6a36112@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270517T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68448_tosca-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68448_tosca-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a10b6aad7afe29c216852c5b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270518T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe32c2bc3457093a6c17f43@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270521T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68448_tosca-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68448_tosca-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:f14c0bc33a128e02e1d0f962@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270522T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:e84ad9d624e9d82ec9dc450b@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270523T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68448_tosca-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68448_tosca-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:7553382d3fe68f497f02278d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270526T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:01d22eac2e7f7df27cbba95d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270527T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68448_tosca-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68448_tosca-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:496f2d27d8e205d5de08f2e5@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270529T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:6d67fd4205c049a4f7ac079a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270602T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68449_idomeneo-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68449_idomeneo-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:f56c9828c89712101a1964fe@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270603T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68450_manon-lescaut-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68450_manon-lescaut-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:0319d3e6c9a7eec34c8ccadd@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270605T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68449_idomeneo-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68449_idomeneo-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a92920d1a37e06297c6caf@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270606T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68450_manon-lescaut-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68450_manon-lescaut-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:fc731287a0343715854fc119@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270608T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68449_idomeneo-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68449_idomeneo-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:22129bd7c6fd34a4a63cc08a@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270609T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68450_manon-lescaut-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68450_manon-lescaut-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:ae28d16180b9d6d77a24be01@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270612T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68449_idomeneo-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68449_idomeneo-bayerische-staatsop
+ er
+END:VEVENT
+BEGIN:VEVENT
+UID:d79852c454667855f0d435ab@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270613T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68422_cinderella-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68422_cinderella-bayerische-staats
+ oper
+END:VEVENT
+BEGIN:VEVENT
+UID:8a23f994975fbae51b66a0fe@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270618T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68422_cinderella-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68422_cinderella-bayerische-staats
+ oper
+END:VEVENT
+BEGIN:VEVENT
+UID:db7d8368c583568f96786923@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270620T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68422_cinderella-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68422_cinderella-bayerische-staats
+ oper
+END:VEVENT
+BEGIN:VEVENT
+UID:f951312a2590fa312537df03@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270627T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68416_twilight-of-the-gods-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68416_twilight-of-the-gods-bayeris
+ che-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:ce69d65de7171b01d9e5b3c8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270628T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68451_macbeth-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68451_macbeth-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ce2fefde9797aaccb695f0@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270629T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68415_werther-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68415_werther-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:6033e2d51bbf80e12397ac49@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270701T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68416_twilight-of-the-gods-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68416_twilight-of-the-gods-bayeris
+ che-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:96df72fb474abe4b21d3cf13@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270702T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68451_macbeth-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68451_macbeth-bayerische-staatsope
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5f514e3d2e0f0200295ce7@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270703T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68452_the-queen-of-spades-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68452_the-queen-of-spades-bayerisc
+ he-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:9095d5ee93da49eec13599e6@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270704T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68416_twilight-of-the-gods-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68416_twilight-of-the-gods-bayeris
+ che-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:8817b99763e475eb17371062@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270705T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:378a34b4da4a618ae7640f2e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270706T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68452_the-queen-of-spades-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68452_the-queen-of-spades-bayerisc
+ he-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:41b952e90a34e3aa3de64832@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270707T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e02aea9d49fdc703dcc030@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270708T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68413_doctor-atomic-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68413_doctor-atomic-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:6f23d23996d0a459683ac45e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270709T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68445_carmen-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68445_carmen-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:086319e75ada6c0ce69611db@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270710T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68412_mary-stuart-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68412_mary-stuart-bayerische-staat
+ soper
+END:VEVENT
+BEGIN:VEVENT
+UID:387b5768fffb2e933f5ccad7@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270712T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68445_carmen-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68445_carmen-bayerische-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:6503b03529c96018bf74dbc8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270716T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68417_death-in-venice-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68417_death-in-venice-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed58ee4cf993c1984ed70af@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270717T180000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68453_das-rheingold-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68453_das-rheingold-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:75adb67d86d67ce2fac692e3@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270718T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68455_die-walkuere-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68455_die-walkuere-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:a865e6df5d5577a344b2005d@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270719T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68417_death-in-venice-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68417_death-in-venice-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:d120cbe6c03199d5bed4f327@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270721T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68442_rigoletto-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68442_rigoletto-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:c02d7efcf7cc243329d0cfd4@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270722T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:24700d429eaf8956385cbff0@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270723T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68417_death-in-venice-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68417_death-in-venice-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:09d01c0b687291db44e9f208@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270724T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68416_twilight-of-the-gods-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68416_twilight-of-the-gods-bayeris
+ che-staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:ac66b9c29c028d49233e36dd@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270725T160000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68417_death-in-venice-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68417_death-in-venice-bayerische-s
+ taatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:d41f3a7ac9063f651d9d7e0e@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270725T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68442_rigoletto-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68442_rigoletto-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:e78631e0b5a7c5444b89d308@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270726T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68453_das-rheingold-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68453_das-rheingold-bayerische-sta
+ atsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1686a52c65f8be626194fb@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270727T150000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68455_die-walkuere-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68455_die-walkuere-bayerische-staa
+ tsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:06dfed3462f356e691fa61be@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270728T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68454_madama-butterfly-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68454_madama-butterfly-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1d5f9cb740bed250db55b8@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270729T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68411_siegfried-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68411_siegfried-bayerische-staatso
+ per
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7b1fde51366d54dbf238be@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270730T170000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68454_madama-butterfly-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68454_madama-butterfly-bayerische-
+ staatsoper
+END:VEVENT
+BEGIN:VEVENT
+UID:091bdf74f9556d5be57e41da@opera-calendar
+DTSTAMP:20261102T203723Z
+DTSTART:20270731T140000Z
+SUMMARY:
+LOCATION:Bayerische Staatsoper\, München
+DESCRIPTION:Spielplanquelle: Operabook. Details und Änderungen bitte bei d
+ er Bayerischen Staatsoper überprüfen. https://operabook.org/en/performan
+ ce/68416_twilight-of-the-gods-bayerische-staatsoper
+URL:https://operabook.org/en/performance/68416_twilight-of-the-gods-bayeris
+ che-staatsoper
+END:VEVENT
+END:VCALENDAR
