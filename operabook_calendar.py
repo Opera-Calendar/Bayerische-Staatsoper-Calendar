@@ -50,6 +50,47 @@ def find_productions(soup):
     return result
 
 
+
+# Operabook sometimes exposes empty link text and an empty H1.
+# The performance URL remains a reliable non-empty title fallback.
+ORIGINAL_TITLES = {
+    'a-masked-ball': 'Un ballo in maschera',
+    'the-magic-flute': 'Die Zauberflöte',
+    'the-abduction-from-the-seraglio': 'Die Entführung aus dem Serail',
+    'the-marriage-of-figaro': 'Le nozze di Figaro',
+    'the-barber-of-seville': 'Il barbiere di Siviglia',
+    'la-boheme': 'La bohème',
+    'ariadne-on-naxos': 'Ariadne auf Naxos',
+    'cinderella': 'La Cenerentola',
+    'mary-stuart': 'Maria Stuarda',
+    'werther': 'Werther',
+    'siegfried': 'Siegfried',
+}
+
+
+def title_from_url(url):
+    last = urlparse(url).path.rstrip('/').split('/')[-1]
+    slug = last.split('_', 1)[-1]
+    slug = re.sub(r'-bayerische-staatsoper$', '', slug)
+    if not slug or slug.isdigit():
+        raise RuntimeError(f'Cannot infer opera title from URL: {url}')
+    return ORIGINAL_TITLES.get(slug, slug.replace('-', ' ').title())
+
+
+def resolve_title(soup, listed_title, url):
+    heading = soup.find('h1')
+    h1_title = heading.get_text(' ', strip=True) if heading else ''
+    # Prefer a mapped original-language work title when the source uses
+    # translated English titles, otherwise preserve a real visible heading.
+    fallback = title_from_url(url)
+    if fallback in ORIGINAL_TITLES.values():
+        return fallback
+    title = h1_title or listed_title.strip() or fallback
+    if not title.strip():
+        raise RuntimeError(f'Blank opera title: {url}')
+    return title
+
+
 def extract_dates(soup):
     heading = next((h for h in soup.find_all(re.compile('^h[1-6]$')) if 'performance dates' in h.get_text(' ', strip=True).lower()), None)
     if not heading:
@@ -102,8 +143,7 @@ def main():
     for number, (url, listed_title) in enumerate(sorted(listing.items()), 1):
         try:
             page = retrieve(session, url)
-            main_heading = page.find('h1')
-            title = main_heading.get_text(' ', strip=True) if main_heading else listed_title
+            title = resolve_title(page, listed_title, url)
             dates = extract_dates(page)
             if not dates:
                 failures.append(f'{listed_title}: no performance dates')
@@ -117,6 +157,8 @@ def main():
             print('WARNING: ' + failures[-1], flush=True)
 
     print(f'Collected {len(events)} distinct performances; failed productions: {len(failures)}', flush=True)
+    if not events or any(not title.strip() for title, _, _ in events.values()):
+        raise RuntimeError('Blank opera titles detected; calendar not overwritten')
     # Avoid silently publishing a partial calendar (tune only after inspecting first full run).
     # The 2026/27 Operabook listing currently contains one production without
     # parseable dates: The Abduction from the Seraglio. Publish the 162 verified
