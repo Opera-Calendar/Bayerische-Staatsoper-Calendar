@@ -22,6 +22,11 @@ TZ = ZoneInfo('Europe/Berlin')
 DATE_RE = re.compile(r'\b(\d{2}/\d{2}/20\d{2})\s+(\d{2}:\d{2})\b')
 EXCLUDE = ('recital', 'concert', 'oratorio', 'symphony')
 
+# Exact duration verified only for the following production.
+VERIFIED_DURATION_MINUTES = {'un ballo in maschera': 175}
+# Explicitly marked placeholder for all other productions.
+DEFAULT_PLACEHOLDER_MINUTES = 180
+
 
 def retrieve(session, url):
     response = session.get(url, timeout=30)
@@ -178,11 +183,22 @@ def main():
     stamp = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
     for title, start, url in sorted(events.values(), key=lambda x: (x[1], x[0])):
         uid = hashlib.sha256((title.casefold() + start.isoformat()).encode()).hexdigest()[:24] + '@opera-calendar'
-        # End time is deliberately not invented; DTSTART-only is permitted for VEVENT.
+        verified_minutes = VERIFIED_DURATION_MINUTES.get(title.casefold())
+        minutes = verified_minutes if verified_minutes is not None else DEFAULT_PLACEHOLDER_MINUTES
+        end_time = start + timedelta(minutes=minutes)
+        if verified_minutes is not None:
+            duration_note = (f"Offizielle ungefähre Aufführungsdauer: {minutes // 60} Std. "
+                             f"{minutes % 60:02d} Min. (mit Pause).")
+        else:
+            duration_note = ("Kalender-Endzeit ist eine SCHÄTZUNG (pauschal 3 Stunden), "
+                             "nicht die bestätigte Dauer dieser Aufführung.")
+        description = (duration_note + " Quelle: Operabook. "
+                       "Offizielle Aufführungsdauer und Änderungen bei staatsoper.de prüfen. " + url)
         lines += ['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{stamp}',
                   f'DTSTART:{start.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")}',
+                  f'DTEND:{end_time.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")}',
                   f'SUMMARY:{ics_safe(title)}', 'LOCATION:Bayerische Staatsoper\\, München',
-                  f'DESCRIPTION:{ics_safe("Spielplanquelle: Operabook. Details und Änderungen bitte bei der Bayerischen Staatsoper überprüfen. " + url)}',
+                  f'DESCRIPTION:{ics_safe(description)}',
                   f'URL:{url}', 'END:VEVENT']
     lines.append('END:VCALENDAR')
     new_contents = '\r\n'.join(folded(line) for line in lines) + '\r\n'
