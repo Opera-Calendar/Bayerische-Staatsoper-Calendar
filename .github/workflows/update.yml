@@ -27,7 +27,7 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Update calendars
-        run: python update.py
+        run: python update_munich.py
 
       - name: Commit changed calendars
         run: |
