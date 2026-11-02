@@ -32,6 +32,18 @@ VERIFIED_DURATION_MINUTES = {
     'siegfried': 330,
 }
 DEFAULT_DURATION_MINUTES = 180
+
+# Confirmed on the official May 2027 monthly programme. The Operabook page
+# for this production currently has no machine-readable dates.
+# These are a transparent, season-limited supplement, not a replacement feed.
+OFFICIAL_SUPPLEMENTS = {
+    2026: {
+        'Die Entführung aus dem Serail': {
+            'dates': ('2027-05-06 19:00', '2027-05-08 18:00', '2027-05-11 19:00'),
+            'url': 'https://www.staatsoper.de/spielplan/2027-05',
+        },
+    },
+}
 ORIGINAL_TITLES = {
     'a-masked-ball': 'Un ballo in maschera',
     'the-magic-flute': 'Die Zauberflöte',
@@ -176,6 +188,20 @@ def main():
             failed.append((url, listed_title, years, str(exc)))
             print(f'WARNING {listed_title}: {exc}', flush=True)
 
+    # Add officially verified exceptions only for their exact season, without
+    # duplicating an event if Operabook later starts publishing its dates.
+    for season_year in wanted:
+        for title, supplement in OFFICIAL_SUPPLEMENTS.get(season_year, {}).items():
+            for value in supplement['dates']:
+                start = datetime.strptime(value, '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+                if not (datetime(season_year, 9, 1, tzinfo=TZ) <= start
+                        < datetime(season_year + 1, 9, 1, tzinfo=TZ)):
+                    raise RuntimeError(f'Official supplement outside its season: {value}')
+                key = (title.casefold(), start.isoformat())
+                if key not in events:
+                    events[key] = (title, start, supplement['url'])
+                    print(f'OFFICIAL SUPPLEMENT {title}: {value}', flush=True)
+
     current_events = [event for event in events.values()
                       if datetime(current_year, 9, 1, tzinfo=TZ) <= event[1]
                       < datetime(current_year + 1, 9, 1, tzinfo=TZ)]
@@ -208,7 +234,9 @@ def main():
         finish = start + timedelta(minutes=minutes)
         note = (f'Ungefähre Aufführungsdauer: {minutes // 60} h {minutes % 60:02d} min.'
                 if duration is not None else 'Endzeit geschätzt: 3 Stunden (nicht bestätigt).')
-        description = f'{note} Datum und Anfangszeit: Operabook. Änderungen bei der Staatsoper prüfen. {url}'
+        source_note = ('Datum und Anfangszeit: offizieller Staatsoper-Spielplan.'
+                       if 'staatsoper.de' in url else 'Datum und Anfangszeit: Operabook.')
+        description = f'{note} {source_note} Änderungen bei der Staatsoper prüfen. {url}'
         lines.extend(['BEGIN:VEVENT', f'UID:{uid}', f'DTSTAMP:{stamp}',
                       f'DTSTART:{start.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")}',
                       f'DTEND:{finish.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")}',
